@@ -38,9 +38,9 @@ Esta sección mapea cada tutorial completado a una funcionalidad específica imp
 
 ## 🎥 Tutoriales
 
-| Descripción | Link de documento | Link de acceso de vídeo |
+| Descripción | Link del Tutorial | Link de acceso de vídeo de Evidencia |
 | :---: | :---: | :---: |
-| Tutorial 1: | [Ver tutorial](https://www.youtube.com/watch?v=-m7ZaHhkDAc&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT&index=1) | [Ver tutorial](https://drive.google.com/drive/folders/1zevTI8bFqj1VHDLKCWc3bXBiiMXIRmyx?usp=drive_link)|
+| Tutorial 1: | [Ver tutorial](https://www.youtube.com/watch?v=-m7ZaHhkDAc&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT&index=1) | [Ver Evidencia](https://drive.google.com/drive/folders/1zevTI8bFqj1VHDLKCWc3bXBiiMXIRmyx?usp=drive_link)|
 | Tutorial 2: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 3: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 4: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
