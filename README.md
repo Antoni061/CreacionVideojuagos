@@ -36,13 +36,17 @@ Para la inspección y ejecución profesional del proyecto:
 
 Esta sección mapea cada tutorial completado a una funcionalidad específica implementada en el juego.
 
-| Módulo del Tutorial | Funcionalidad Implementada | Script o Archivo Clave |
-| :--- | :--- | :--- |
-| **01-02** | **Creación del Mundo y Movimiento:** Configuración de *Tilemaps*, colisiones y la física básica de **Movimiento y Salto**. | `PlayerMovement.cs` |
-| **03-04** | **Core Gameplay Loop:** Implementación del sistema de **Recolección de Objetos** (*Frutas*) y el **Sistema de Animación** de personajes (Idle, Run, Jump, Fall). | `ItemCollector.cs`, `PlayerController.controller` |
-| **05-07** | **Estructura de Nivel y Riesgos:** Integración de **Enemigos** (Patrullaje) y el sistema de **CheckPoint** para la persistencia de progreso. | `EnemyPatrol.cs`, `Checkpoint.cs` |
-| **08-09** | **User Experience (UX):** Integración de **Nuevos Personajes** (reusabilidad) y diseño funcional del **Menú Principal**. | `MenuPrincipal.unity`, `CharacterSwap.cs` |
-| **10-12** | **Monitoreo y Plataforma:** Implementación de **Controles para Móvil** (UI Táctil), **Score** persistente y el **Sistema de Vidas** (*Game Over*). | `MobileInput.cs`, `ScoreManager.cs`, `LifeManager.cs` |
+## 🎥 Tutoriales
+
+| Descripción | Link de documento | Link de acceso de vídeo |
+| :---: | :---: | :---: |
+| Tutorial 1: | [Ver tutorial](https://drive.google.com/drive/folders/1zevTI8bFqj1VHDLKCWc3bXBiiMXIRmyx?usp=drive_link) | |
+| Tutorial 2: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 3: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 4: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 5: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 6: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 7: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
 
 ---
 
