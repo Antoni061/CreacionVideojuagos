@@ -42,9 +42,9 @@ Esta sección mapea cada tutorial completado a una funcionalidad específica imp
 | :---: | :---: | :---: |
 | Tutorial 1: | [Ver tutorial](https://www.youtube.com/watch?v=-m7ZaHhkDAc&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT&index=1) | [Ver Evidencia](https://drive.google.com/drive/folders/1zevTI8bFqj1VHDLKCWc3bXBiiMXIRmyx?usp=drive_link)|
 | Tutorial 2: | [Ver tutorial](https://www.youtube.com/watch?v=vlXF6XhAje8&list=PLNEAWvYbJJ9kZpaIg2RfzAc_KZixBgchT&index=3) | [Ver Evidencia](https://drive.google.com/drive/folders/1bKJorwQ1ZmKosXsD7z4a56k0pRgWl62_?usp=sharing) |
-| Tutorial 3: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
-| Tutorial 4: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
-| Tutorial 5: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
+| Tutorial 3: | [Ver tutorial](https://drive.google.com/drive/folders/1bZzJruEVs2Iedru2pEkBa9YjbAyGbGip?usp=drive_link) | [Ver Evidencia](https://drive.google.com/drive/folders/1bZzJruEVs2Iedru2pEkBa9YjbAyGbGip?usp=drive_link)|
+| Tutorial 4: | [Ver tutorial](https://drive.google.com/drive/folders/1-fG6QctVIv1sEU3NNRr8JAciyLkskgPd?usp=drive_link) | [Ver Evidencia](https://drive.google.com/drive/folders/1-fG6QctVIv1sEU3NNRr8JAciyLkskgPd?usp=drive_link) |
+| Tutorial 5: | [Ver tutorial](https://drive.google.com/drive/folders/1UZfVVVK8515yyiRQWPEWiAvDmxURaIkp?usp=drive_link) | [Ver Evidencia](https://drive.google.com/drive/folders/1UZfVVVK8515yyiRQWPEWiAvDmxURaIkp?usp=drive_link)|
 | Tutorial 6: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
 | Tutorial 7: | [Ver tutorial](Aún no hay vídeo) | [Vídeo](Aún no hay vídeo) |
 
